@@ -16,7 +16,7 @@ Sample Size
 
 The sample size will be 1,000 Columbia students who are randomly selected from the population. The Columbia college undergraduate enrollment number is 4,461 as of 2020 (Columbia University, 2021), which will enable us to use a conservative opt-in rate of 22% to ensure that we have a fully representative sample and are not at risk of no-shows or opt-outs. In the case of participants dropping out, or violating some of the set forth rules, we will be able to replace them with another individual from the total eligible population.
 
- The research will use 95% confidence level, 5% margin of error, and 50% sample proportion for the sample size calculation; with the sample size calculation formula(Thakur & Vaidya, 2021):n = N * [Z2 * p * (1-p)/e2] / [N – 1 + (Z2 * p * (1-p)/e2], the sample size will be 380. In order to make the prediction result more precise, we will enlarge the sample size from 380 to 1,000 students so that we can receive more accurate results from students.
+ The research will use 95% confidence level, 5% margin of error, and 50% sample proportion for the sample size calculation; with the sample size calculation formula:n = N * [Z2 * p * (1-p)/e2] / [N – 1 + (Z2 * p * (1-p)/e2], the sample size will be 380. In order to make the prediction result more precise, we will enlarge the sample size from 380 to 1,000 students so that we can receive more accurate results from students.
  
 Statistical Analysis Plan
 -------------
